@@ -7,7 +7,7 @@
     "feedback",
     "bot"
   ],
-  "success_url": "/",
+  "success_url": "https://t.me/feed13_bot",
   "website": "https://github.com/HeimanPictures/HeimanPictures/",
   "repository": "https://github.com/HeimanPictures/Feedback-bot/",
   "env": {
